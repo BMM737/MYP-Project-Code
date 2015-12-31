@@ -213,7 +213,6 @@ public class Game extends Canvas implements Runnable {
 		// g.setColor(Color.);
 		// g.fillRect(120,100, 20, 20);
 		
-		//just a joke
 		g.dispose();
 		bs.show();
 	}
