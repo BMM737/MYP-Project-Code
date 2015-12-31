@@ -213,6 +213,7 @@ public class Game extends Canvas implements Runnable {
 		// g.setColor(Color.);
 		// g.fillRect(120,100, 20, 20);
 		
+		//Finishing the art
 		g.dispose();
 		bs.show();
 	}
